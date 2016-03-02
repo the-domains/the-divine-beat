@@ -1,14 +1,26 @@
-layout_spectrum: 0.327957
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.08762953
-  lightness: 0.9204131
   brandStrength: 0.6293782
-  rhythmicContrast: 0.795297
+  lightness: 0.9204131
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-typography_spectrum: 0.6054206
+    - '#FEFEFE'
+    - '#010101'
+    - '#2F2F2F'
+    - '#777777'
+    - '#D0D0D0'
+  rhythmicContrast: 0.795297
+typography_spectrum: 0.4193548
+layout_spectrum: 0.327957
 name: The Divine Beat
