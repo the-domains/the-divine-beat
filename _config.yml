@@ -1,0 +1,14 @@
+layout_spectrum: 0.327957
+color:
+  saturation: 0.08762953
+  lightness: 0.9204131
+  brandStrength: 0.6293782
+  rhythmicContrast: 0.795297
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.6054206
+name: The Divine Beat
