@@ -4,8 +4,15 @@
         <description><![CDATA[The Divine Beat]]></description>
         <link>https://thegrid.ai/the-divine-beat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 20:07:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-divine-beat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Golden Spiral]]></title>
+            <description><![CDATA[<article><h1>The Golden Spiral</h1><p>The polar equation for a golden spiral is the same as for other logarithmic spirals, but with a special value of the growth factor b: or with being the base of Natural Logarithms, a being an arbitrary positive real constant, and b such that when θ is a right angle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43e0ec036e1b79f9c2db876f14b0712a19233b58.png"></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/Golden_spiral</link>
+            <guid isPermaLink="false">1994599f-c84d-4038-ad42-25a638a5aa16</guid>
+            <pubDate>Wed, 02 Mar 2016 20:06:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thermodynamics]]></title>
             <description><![CDATA[<article><h1>Thermodynamics</h1><p>The four laws of thermodynamics define fundamental physical quantities ( temperature, energy, and entropy) that characterize thermodynamic systems. The laws describe how these quantities behave under various circumstances, and forbid certain phenomena (such as perpetual motion).</p></article>]]></description>
