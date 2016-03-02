@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Divine Beat]]></title>
+        <description><![CDATA[The Divine Beat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 20:06:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Big Bang]]></title>
+            <description><![CDATA[<article><h1>The Big Bang</h1><p>The Big Bang theory is the prevailing cosmological model for the universe from the earliest known periods through its subsequent large-scale evolution. The model accounts for the fact that the universe expanded from a very high density and high temperature state, and offers a comprehensive explanation for a broad range of phenomena, including the abundance of light elements, the cosmic microwave background, large scale structure and Hubble's Law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24838e6696536648c7dc7b5f29f074df6a81e8c.jpg"></article>]]></description>
+            <link>undefinedthe-big-bang/index.html</link>
+            <guid isPermaLink="false">63fef98f-8426-4d76-81fa-7f36c30da9ca</guid>
+            <pubDate>Wed, 02 Mar 2016 20:06:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
