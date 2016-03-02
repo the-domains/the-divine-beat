@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Divine Beat]]></title>
         <description><![CDATA[The Divine Beat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-divine-beat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 20:06:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 20:07:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-divine-beat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Thermodynamics]]></title>
+            <description><![CDATA[<article><h1>Thermodynamics</h1><p>The four laws of thermodynamics define fundamental physical quantities ( temperature, energy, and entropy) that characterize thermodynamic systems. The laws describe how these quantities behave under various circumstances, and forbid certain phenomena (such as perpetual motion).</p></article>]]></description>
+            <link>https://thegrid.ai/the-divine-beat/thermodynamics/index.html</link>
+            <guid isPermaLink="false">2c8a6f36-1366-48ad-a0f8-b9bf9146d3e1</guid>
+            <pubDate>Wed, 02 Mar 2016 20:06:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Big Bang]]></title>
             <description><![CDATA[<article><h1>The Big Bang</h1><p>The Big Bang theory is the prevailing cosmological model for the universe from the earliest known periods through its subsequent large-scale evolution. The model accounts for the fact that the universe expanded from a very high density and high temperature state, and offers a comprehensive explanation for a broad range of phenomena, including the abundance of light elements, the cosmic microwave background, large scale structure and Hubble's Law.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d24838e6696536648c7dc7b5f29f074df6a81e8c.jpg"></article>]]></description>
-            <link>undefinedthe-big-bang/index.html</link>
+            <link>https://thegrid.ai/the-divine-beat/the-big-bang/index.html</link>
             <guid isPermaLink="false">63fef98f-8426-4d76-81fa-7f36c30da9ca</guid>
             <pubDate>Wed, 02 Mar 2016 20:06:24 GMT</pubDate>
         </item>
