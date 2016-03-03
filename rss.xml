@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Divine Beat]]></title>
         <description><![CDATA[The Divine Beat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-divine-beat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 02:18:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 02:28:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-divine-beat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Here's a thought. </p>]]></description>
+            <link>https://thegrid.ai/the-divine-beat/846f0526-e0a4-4756-bd47-344f23e181fc/index.html</link>
+            <guid isPermaLink="false">846f0526-e0a4-4756-bd47-344f23e181fc</guid>
+            <pubDate>Thu, 03 Mar 2016 02:27:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a09b62d4-4ed9-4c4b-982b-e3b43b6415ad.jpg">]]></description>
-            <link>undefined18d25e85-b84b-4094-bfc5-fa8b11fadbe5/index.html</link>
+            <link>https://thegrid.ai/the-divine-beat/18d25e85-b84b-4094-bfc5-fa8b11fadbe5/index.html</link>
             <guid isPermaLink="false">18d25e85-b84b-4094-bfc5-fa8b11fadbe5</guid>
             <pubDate>Thu, 03 Mar 2016 02:18:28 GMT</pubDate>
         </item>
