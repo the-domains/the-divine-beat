@@ -1,3 +1,7 @@
+name: The Divine Beat
+favicon: null
+layout_spectrum: 0.26573
+typography_spectrum: 0.4193548
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.08762953
-  brandStrength: 0.6293782
-  lightness: 0.9204131
   brandColors:
     - '#FEFEFE'
     - '#010101'
     - '#2F2F2F'
     - '#777777'
     - '#D0D0D0'
+  brandStrength: 0.6293782
+  lightness: 0.9204131
+  saturation: 0.08762953
   rhythmicContrast: 0.795297
-typography_spectrum: 0.4193548
-layout_spectrum: 0.327957
-name: The Divine Beat
+purpose: []
